@@ -1,16 +1,18 @@
 ## Hi there 👋
+- My name is Leon, I'm 23 from germany
+- I always had a passion for IT and especially programming
+- I started my education to become a software dev this year
 
-<!--
-**LinssLeon/LinssLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently learning 📚:
+- C#
+- Python
+- PHP (Symfony)
+- Shopware
 
-Here are some ideas to get you started:
+## Github Stats 📊:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinssLeon&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Plans 2024 📝:
+- Getting comfortable with C# so I can start game dev in Unity
+- Increase frontend knowledge, especially js
+- Less syntax error x)
