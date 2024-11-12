@@ -15,4 +15,4 @@
 ## Plans 2024 📝:
 - Getting comfortable with C# so I can start game dev in Unity
 - Increase frontend knowledge, especially js
-- Less syntax error x)
+- Less syntax errors x)
