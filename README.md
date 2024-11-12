@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Leon, I'm 23 from germany
-- I always had a passion for IT and especially programming
+- I've always had a passion for IT and especially programming
 - I started my education to become a software dev this year
 
 ## I'm currently learning 📚:
