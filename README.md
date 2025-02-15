@@ -6,7 +6,7 @@
 ## I'm currently learning 📚:
 - C#
 - Python
-- PHP (Symfony)
+- PHP 
 - Shopware
 
 ## Github Stats 📊:
