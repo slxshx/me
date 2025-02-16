@@ -12,7 +12,7 @@
 ## Github Stats 📊:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinssLeon&show_icons=true&theme=radical)
 
-## Plans 2024 📝:
+## Plans 2025 📝:
 - Getting comfortable with C# so I can start game dev in Unity
 - Increase frontend knowledge, especially js
 - Less syntax errors x)
