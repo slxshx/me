@@ -1,7 +1,7 @@
 ## Hi there 👋
 - My name is Leon, I'm 23 from germany
 - I've always had a passion for IT and especially programming
-- I started my education to become a software dev this year (this)
+- I started my education to become a software dev this year (this.)
 
 ## I'm currently learning 📚:
 - C#
